@@ -24,6 +24,9 @@
 
 ![](/D.va.jpg 'D.va')
 
+
+![](https://tse1-mm.cn.bing.net/th/id/OIP.vqNoCpEEDMKX5UKsw5-MbAHaOE?pid=ImgDet&rs=1)
+
  ```java
 
 public class Counting {
@@ -50,8 +53,6 @@ public class Counting {
    }
  ```
 
-![](https://tse1-mm.cn.bing.net/th/id/OIP.vqNoCpEEDMKX5UKsw5-MbAHaOE?pid=ImgDet&rs=1)
-
  * A
  * B
  
@@ -62,8 +63,6 @@ public class Counting {
 ------------------
 ------------------
 ------------------
-
-------------------------------------
 ------------------
 ------------------
 
